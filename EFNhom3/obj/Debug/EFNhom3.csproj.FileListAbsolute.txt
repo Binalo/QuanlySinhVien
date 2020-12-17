@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\G3\EFNhom3\bin\Debug\EFNhom3.exe.config
+C:\Users\ADMIN\source\repos\G3\EFNhom3\bin\Debug\EFNhom3.exe
+C:\Users\ADMIN\source\repos\G3\EFNhom3\bin\Debug\EFNhom3.pdb
+C:\Users\ADMIN\source\repos\G3\EFNhom3\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\G3\EFNhom3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\G3\EFNhom3\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\G3\EFNhom3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\G3\EFNhom3\obj\Debug\EFNhom3.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\G3\EFNhom3\obj\Debug\EFNhom3.Form1.resources
+C:\Users\ADMIN\source\repos\G3\EFNhom3\obj\Debug\EFNhom3.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\G3\EFNhom3\obj\Debug\EFNhom3.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\G3\EFNhom3\obj\Debug\EFNhom3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\G3\EFNhom3\obj\Debug\EFNhom3.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\G3\EFNhom3\obj\Debug\EFNhom3.exe
+C:\Users\ADMIN\source\repos\G3\EFNhom3\obj\Debug\EFNhom3.pdb

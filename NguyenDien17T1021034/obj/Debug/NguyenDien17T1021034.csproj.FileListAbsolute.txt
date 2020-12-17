@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\bin\Debug\NguyenDien17T1021034.exe.config
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\bin\Debug\NguyenDien17T1021034.exe
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\bin\Debug\NguyenDien17T1021034.pdb
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\obj\Debug\NguyenDien17T1021034.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\obj\Debug\NguyenDien17T1021034.frmMain.resources
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\obj\Debug\NguyenDien17T1021034.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\obj\Debug\NguyenDien17T1021034.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\obj\Debug\NguyenDien17T1021034.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\obj\Debug\NguyenDien17T1021034.exe
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\obj\Debug\NguyenDien17T1021034.pdb
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\obj\Debug\NguyenDien17T1021034.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\obj\Debug\NguyenDien17T1021034.GUI.frmLopChiTiet.resources
+C:\Users\ADMIN\source\repos\G3\NguyenDien17T1021034\obj\Debug\NguyenDien17T1021034.GUI.frmSinhVienChiTiet.resources

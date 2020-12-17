@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\G3\CountDownClock\bin\Debug\CountDownClock.exe.config
+C:\Users\ADMIN\source\repos\G3\CountDownClock\bin\Debug\CountDownClock.exe
+C:\Users\ADMIN\source\repos\G3\CountDownClock\bin\Debug\CountDownClock.pdb
+C:\Users\ADMIN\source\repos\G3\CountDownClock\obj\Debug\CountDownClock.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\G3\CountDownClock\obj\Debug\CountDownClock.FormMain.resources
+C:\Users\ADMIN\source\repos\G3\CountDownClock\obj\Debug\CountDownClock.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\G3\CountDownClock\obj\Debug\CountDownClock.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\G3\CountDownClock\obj\Debug\CountDownClock.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\G3\CountDownClock\obj\Debug\CountDownClock.exe
+C:\Users\ADMIN\source\repos\G3\CountDownClock\obj\Debug\CountDownClock.pdb

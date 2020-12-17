@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\G3\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\ADMIN\source\repos\G3\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\ADMIN\source\repos\G3\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\ADMIN\source\repos\G3\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\G3\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\G3\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\ADMIN\source\repos\G3\FirstProject\obj\Debug\FirstProject.pdb

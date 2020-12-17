@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\G3\WinformBasic\bin\Debug\WinformBasic.exe.config
+C:\Users\ADMIN\source\repos\G3\WinformBasic\bin\Debug\WinformBasic.exe
+C:\Users\ADMIN\source\repos\G3\WinformBasic\bin\Debug\WinformBasic.pdb
+C:\Users\ADMIN\source\repos\G3\WinformBasic\obj\Debug\WinformBasic.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\G3\WinformBasic\obj\Debug\WinformBasic.Form1.resources
+C:\Users\ADMIN\source\repos\G3\WinformBasic\obj\Debug\WinformBasic.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\G3\WinformBasic\obj\Debug\WinformBasic.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\G3\WinformBasic\obj\Debug\WinformBasic.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\G3\WinformBasic\obj\Debug\WinformBasic.exe
+C:\Users\ADMIN\source\repos\G3\WinformBasic\obj\Debug\WinformBasic.pdb

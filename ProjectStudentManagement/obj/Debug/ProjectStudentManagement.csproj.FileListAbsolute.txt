@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\G3\ProjectStudentManagement\bin\Debug\ProjectStudentManagement.exe.config
+C:\Users\ADMIN\source\repos\G3\ProjectStudentManagement\bin\Debug\ProjectStudentManagement.exe
+C:\Users\ADMIN\source\repos\G3\ProjectStudentManagement\bin\Debug\ProjectStudentManagement.pdb
+C:\Users\ADMIN\source\repos\G3\ProjectStudentManagement\obj\Debug\ProjectStudentManagement.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\G3\ProjectStudentManagement\obj\Debug\ProjectStudentManagement.frmProfileStudent.resources
+C:\Users\ADMIN\source\repos\G3\ProjectStudentManagement\obj\Debug\ProjectStudentManagement.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\G3\ProjectStudentManagement\obj\Debug\ProjectStudentManagement.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\G3\ProjectStudentManagement\obj\Debug\ProjectStudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\G3\ProjectStudentManagement\obj\Debug\ProjectStudentManagement.exe
+C:\Users\ADMIN\source\repos\G3\ProjectStudentManagement\obj\Debug\ProjectStudentManagement.pdb
